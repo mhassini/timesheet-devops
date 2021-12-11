@@ -19,7 +19,9 @@ import javax.persistence.TemporalType;
 public class User implements Serializable {
 	
 	// commentaire 1 
-	// Commentaire 2
+	// Commentaire 2 
+	
+	// Commaentaire 4
 	private static final long serialVersionUID = 1L;
 
 	@Id
